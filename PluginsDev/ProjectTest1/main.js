@@ -1,10 +1,3 @@
-/*
- * Sample plugin scaffolding for Adobe XD.
- *
- * Visit http://adobexdplatform.com/ for API docs and more sample code.
- */
-
-
 const {Rectangle, Color} = require("scenegraph"); 
 
 function rectangleHandlerFunction(selection) { 
