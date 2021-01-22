@@ -1,1 +1,1 @@
-# Adobe XD Plugine Development
+# Adobe XD Plugins Development
